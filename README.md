@@ -19,11 +19,7 @@ Welcome to the 1win Betting Application, an Android app developed with a focus o
 - Version Control: Follows semantic versioning to ensure structured updates and backward compatibility.
 
 **Installation Guide:**
-1. Clone the repository:
-
-git clone https://github.com/mrspaced/1win.git
-
-
+1. Clone the repository: git clone https://github.com/mrspaced/1win.git
 2. Open the project in Android Studio.
 3. Sync Gradle dependencies and configure the SDK settings.
 4. Build the APK or deploy directly to a connected Android device.
